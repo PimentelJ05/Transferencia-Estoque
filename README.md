@@ -42,7 +42,7 @@ Este projeto foi originalmente desenvolvido no **primeiro semestre da faculdade*
 
 ⭐ Se gostou deste projeto, deixe uma estrela no repositório!
 
-🔗 Vamos nos conectar no [LinkedIn]((https://www.linkedin.com/in/j%C3%BAlia-pimentel-449023288/))!
+🔗 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-pimentel-449023288/)!
 
 Obrigado pela visita! 😊
 
