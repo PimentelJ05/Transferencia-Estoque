@@ -18,7 +18,7 @@ Este projeto foi originalmente desenvolvido no **primeiro semestre da faculdade*
 
 ---
 
-#🌐 Como Executar?
+# 🌐 Como Executar?
 
 1️⃣ Clone este repositório:  
    ```bash
